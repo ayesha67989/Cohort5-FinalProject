@@ -1,0 +1,360 @@
+#legendHead{
+    position: absolute;
+    top: 880px;
+    left: 660px;
+    font-family: serif;
+}
+
+#legendPara{
+    position: absolute;
+    top: 980px;
+    left: 270px;
+    font-family: serif;
+    width: 70%;
+    text-align: center;
+}
+
+#legendCard{
+    position: relative;
+    top: 1080px;
+    left: 200px;
+   width: 74%;
+   height: auto;
+   margin-top: 100px;
+   border-color: white;
+}
+
+#legendImg{
+    opacity: 60%;
+}
+
+#legendCardHead{
+    position: absolute;
+    top: 90px;
+    left: 440px;
+    font-family: serif;
+    font-size: 28px;
+
+}
+
+#legendCardPara{
+    position: absolute;
+    top: 150px;
+    left: 210px;
+    width: 60%;
+    font-family: serif;
+    font-size: 17px;
+
+
+}
+
+#legendCardBottom{
+    position: absolute;
+    top: 280px;
+    left: 470px;
+}
+
+
+
+@media (max-width: 1399.98px) { 
+    #legendHead{
+        position: absolute;
+        top: 780px;
+        left: 500px;
+        font-family: serif;
+    }
+    
+    #legendPara{
+        position: absolute;
+        top: 900px;
+        left: 170px;
+        font-family: serif;
+        width: 70%;
+        text-align: center;
+    }
+    
+    #legendCard{
+        position: relative;
+        top: 1080px;
+        left: 200px;
+       width: 74%;
+       height: auto;
+       margin-top: 100px;
+       border-color: white;
+    }
+    
+    #legendImg{
+        opacity: 60%;
+    }
+    
+    #legendCardHead{
+        position: absolute;
+        top: 60px;
+        left: 340px;
+        font-family: serif;
+        font-size: 28px;
+    
+    }
+    
+    #legendCardPara{
+        position: absolute;
+        top: 150px;
+        left: 210px;
+        width: 60%;
+        font-family: serif;
+        font-size: 17px;
+    
+    
+    }
+    
+    #legendCardBottom{
+       visibility: hidden;
+    }
+ }
+
+
+ @media (max-width: 1199.98px) { 
+
+    #legendHead{
+        position: absolute;
+        top: 780px;
+        left: 400px;
+        font-family: serif;
+    }
+    
+    #legendPara{
+        position: absolute;
+        top: 900px;
+        left: 170px;
+        font-family: serif;
+        width: 70%;
+        text-align: center;
+    }
+    
+    #legendCard{
+        position: relative;
+        top: 1080px;
+        left: 100px;
+       width: 74%;
+       height: auto;
+       margin-top: 100px;
+       border-color: white;
+    }
+    
+    #legendImg{
+        opacity: 60%;
+    }
+    
+    #legendCardHead{
+        position: absolute;
+        top: 60px;
+        left: 240px;
+        font-family: serif;
+        font-size: 28px;
+    
+    }
+    
+    #legendCardPara{
+        position: absolute;
+        top: 130px;
+        left: 110px;
+        width: 60%;
+        font-family: serif;
+        font-size: 14px;
+    
+    
+    }
+    
+    #legendCardBottom{
+       visibility: hidden;
+    }
+
+  }
+
+  @media (max-width: 991.98px) { 
+
+    #legendHead{
+        position: absolute;
+        top: 570px;
+        left: 300px;
+        font-family: serif;
+    }
+    
+    #legendPara{
+        position: absolute;
+        top: 700px;
+        left: 110px;
+        font-family: serif;
+        width: 70%;
+        text-align: center;
+    }
+    
+    #legendCard{
+        position: relative;
+        top: 980px;
+        left: 100px;
+       width: 74%;
+       height: auto;
+       margin-top: 100px;
+       border-color: white;
+    }
+    
+    #legendImg{
+        opacity: 60%;
+    }
+    
+    #legendCardHead{
+        position: absolute;
+        top: 40px;
+        left: 210px;
+        font-family: serif;
+        font-size: 17px;
+    
+    }
+    
+    #legendCardPara{
+        position: absolute;
+        top: 80px;
+        left: 98px;
+        width: 60%;
+        font-family: serif;
+        font-size: 11px;
+    
+    
+    }
+    
+    #legendCardBottom{
+       visibility: hidden;
+    }
+
+
+  }
+
+
+
+  @media (max-width: 767.98px) { 
+
+    #legendHead{
+        position: absolute;
+        top: 420px;
+        left: 220px;
+        font-family: serif;
+    }
+    
+    #legendPara{
+        position: absolute;
+        top: 550px;
+        left: 120px;
+        font-family: serif;
+        width: 300px;
+        text-align: center;
+    }
+    
+    #legendCard{
+        position: relative;
+        top: 780px;
+        left: 70px;
+       width: 70%;
+       height: auto;
+       margin-top: 100px;
+       border-color: white;
+    }
+    
+    #legendImg{
+        opacity: 60%;
+    }
+    
+    #legendCardHead{
+        position: absolute;
+        top: 25px;
+        left: 160px;
+        font-family: serif;
+        font-size: 14px;
+    
+    }
+    
+    #legendCardPara{
+        position: absolute;
+        top: 50px;
+        left: 78px;
+        width: 60%;
+        font-family: serif;
+        font-size: 8px;
+    
+    
+    }
+    
+    #legendCardBottom{
+       visibility: hidden;
+    }
+
+
+  }
+  
+
+  @media (max-width: 575.98px) { 
+    #legendHead{
+        position: absolute;
+        top: 380px;
+        left: 160px;
+        font-family: serif;
+    }
+    
+    #legendPara{
+        position: absolute;
+        top: 510px;
+        left: 70px;
+        font-family: serif;
+        width: 300px;
+        text-align: center;
+    }
+    #legendCardOuter{
+        position: relative;
+        top: 780px;
+        left: 70px;
+       width: auto;
+       height: auto;
+       margin-top: 100px;
+       border-color: white;
+    }
+    
+    /* #legendCard{
+        position: relative;
+        top: 780px;
+       
+       margin-top: 100px;
+       border-color: white;
+       color: aqua;
+    }
+     */
+    #legendImg{
+        opacity: 60%;
+    }
+    
+    #legendCardHead{
+        position: absolute;
+        top: 9px;
+        left: 100px;
+        font-family: serif;
+        font-size: 11px;
+    
+    }
+    
+    #legendCardPara{
+        position: absolute;
+        top: 20px;
+        left: 58px;
+        width: 60%;
+        font-family: serif;
+        font-size: 8px;
+    
+    
+    }
+    
+    #legendCardBottom{
+       visibility: hidden;
+    }
+
+
+  
+   }

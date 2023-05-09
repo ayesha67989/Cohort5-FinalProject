@@ -1,0 +1,462 @@
+#roomHeading{
+    position: absolute;
+    font-family: serif;
+    top:120px;
+    left: 210px;
+}
+
+#roomDiv{
+    position: absolute;
+    top: 240px;
+    left: 160px;
+    width: 740px;
+    height: 290px;
+    
+}
+
+#paraRoom{
+    position: absolute;
+    top: 800px;
+    left: 500px;
+    text-align: center;
+    font-family: serif;
+    width: 40%;
+}
+
+#buttonRoom{
+    width: 120px;
+    height: 50px;
+     color:white;
+     background-color: #796329;
+     border: #796329;
+     margin-left: 130px;
+     position: absolute;
+     top: 900px;
+     left: 610px;
+ 
+ }
+
+ #fieldsetRoom{
+    position: absolute;
+    top: 1050px;
+    left: 310px;
+    color: #796329;
+    border-color: #796329;
+    border-style:solid;
+    width: 950px;
+    height: 500px;
+    border-width: 1px;
+
+ }
+
+ #rooomFeature{
+    position: absolute;
+    top:-19px;
+    left: 110px;
+    background-color: white;
+    font-family:serif;
+    font-size: 28px;
+    
+ }
+
+ #listRoom{
+    position: absolute;
+    top:69px;
+    left:200px;
+    background-color: white;
+    font-family:serif;
+    font-size: 18px;
+   align-items:flex-start;
+   width: 300px;
+ }
+
+ 
+ #listRoomTwo{
+    position: absolute;
+    top:69px;
+    left:630px;
+    background-color: white;
+    font-family:serif;
+    font-size: 18px;
+   align-items:flex-start;
+ }
+
+ @media (max-width: 1399.98px) { 
+    #buttonRoom{
+        width: 120px;
+        height: 50px;
+         color:white;
+         background-color: #796329;
+         border: #796329;
+         margin-left: 130px;
+         position: absolute;
+         top: 900px;
+         left: 550px;
+     
+     }
+     #fieldsetRoom{
+        position: absolute;
+        top: 1050px;
+        left: 190px;
+        color: #796329;
+        border-color: #796329;
+        border-style:solid;
+        width: 950px;
+        height: 500px;
+        border-width: 1px;
+    
+     }
+  }
+
+  @media (max-width: 1199.98px) { 
+    #paraRoom{
+        position: absolute;
+        top: 600px;
+        left: 400px;
+        text-align: center;
+        font-family: serif;
+        width: 40%;
+    }
+    #buttonRoom{
+        width: 120px;
+        height: 50px;
+         color:white;
+         background-color: #796329;
+         border: #796329;
+         margin-left: 130px;
+         position: absolute;
+         top: 700px;
+         left: 410px;
+     
+     }
+    
+     #fieldsetRoom{
+        position: absolute;
+        top: 850px;
+        left: 140px;
+        color: #796329;
+        border-color: #796329;
+        border-style:solid;
+        width: 750px;
+        height: 500px;
+        border-width: 1px;
+    
+     }
+    
+     #rooomFeature{
+        position: absolute;
+        top:-19px;
+        left: 110px;
+        background-color: white;
+        font-family:serif;
+        font-size: 28px;
+        
+     }
+
+     
+ #listRoom{
+    position: absolute;
+    top:69px;
+    left:100px;
+    background-color: white;
+    font-family:serif;
+    font-size: 18px;
+   align-items:flex-start;
+   width: 270px;
+ }
+
+ 
+ #listRoomTwo{
+    position: absolute;
+    top:69px;
+    left:550px;
+    background-color: white;
+    font-family:serif;
+    font-size: 18px;
+   align-items:flex-start;
+ }
+    
+   }
+
+   @media (max-width: 991.98px) { 
+    #paraRoom{
+        position: absolute;
+        top: 500px;
+        left: 300px;
+        text-align: center;
+        font-family: serif;
+        width: 40%;
+    }
+    #buttonRoom{
+        width: 120px;
+        height: 50px;
+         color:white;
+         background-color: #796329;
+         border: #796329;
+         margin-left: 130px;
+         position: absolute;
+         top: 630px;
+         left: 260px;
+     
+     }
+    
+     #fieldsetRoom{
+        position: absolute;
+        top: 750px;
+        left: 90px;
+        color: #796329;
+        border-color: #796329;
+        border-style:solid;
+        width: 600px;
+        height: 300px;
+        border-width: 1px;
+    
+     }
+    
+     #rooomFeature{
+        position: absolute;
+        top:-19px;
+        left: 110px;
+        background-color: white;
+        font-family:serif;
+        font-size: 28px;
+        
+     }
+
+     
+ #listRoom{
+    position: absolute;
+    top:69px;
+    left:60px;
+    background-color: white;
+    font-family:serif;
+    font-size: 13px;
+   align-items:flex-start;
+   width: 240px;
+ }
+
+ 
+ #listRoomTwo{
+    position: absolute;
+    top:69px;
+    left:450px;
+    background-color: white;
+    font-family:serif;
+    font-size: 13px;
+   align-items:flex-start;
+ }
+    
+
+    }
+
+
+ @media (max-width: 767.98px) { 
+
+    #paraRoom{
+        position: absolute;
+        top: 340px;
+        left: 200px;
+        text-align: center;
+        font-family: serif;
+        width: 40%;
+    }
+    #buttonRoom{
+        width: 120px;
+        height: 50px;
+         color:white;
+         background-color: #796329;
+         border: #796329;
+         margin-left: 130px;
+         position: absolute;
+         top: 500px;
+         left: 130px;
+     
+     }
+    
+     #fieldsetRoom{
+        position: absolute;
+        top: 650px;
+        left: 20px;
+        color: #796329;
+        border-color: #796329;
+        border-style:solid;
+        width: 300px;
+        height: 300px;
+        border-width: 1px;
+    
+     }
+    
+     #rooomFeature{
+        position: absolute;
+        top:-19px;
+        left: 110px;
+        background-color: white;
+        font-family:serif;
+        font-size: 28px;
+        
+     }
+
+     
+ #listRoom{
+    position: absolute;
+    top:69px;
+    left:60px;
+    background-color: white;
+    font-family:serif;
+    font-size: 13px;
+   align-items:flex-start;
+   width: 240px;
+ }
+
+ 
+ #listRoomTwo{
+    position: absolute;
+    top:69px;
+    left:350px;
+    background-color: white;
+    font-family:serif;
+    font-size: 13px;
+   align-items:flex-start;
+ }
+
+  }
+  @media (max-width: 767.98px) { 
+
+   #paraRoom{
+      position: absolute;
+      top: 450px;
+      left: 200px;
+      text-align: center;
+      font-family: serif;
+      width: 40%;
+  }
+  #buttonRoom{
+      width: 120px;
+      height: 50px;
+       color:white;
+       background-color: #796329;
+       border: #796329;
+       margin-left: 130px;
+       position: absolute;
+       top: 630px;
+       left: 130px;
+   
+   }
+  
+   #fieldsetRoom{
+      position: absolute;
+      top: 750px;
+      left: 20px;
+      color: #796329;
+      border-color: #796329;
+      border-style:solid;
+      width: 500px;
+      height: 300px;
+      border-width: 1px;
+  
+   }
+  
+   #rooomFeature{
+      position: absolute;
+      top:-19px;
+      left: 110px;
+      background-color: white;
+      font-family:serif;
+      font-size: 28px;
+      
+   }
+
+   
+#listRoom{
+  position: absolute;
+  top:69px;
+  left:60px;
+  background-color: white;
+  font-family:serif;
+  font-size: 13px;
+ align-items:flex-start;
+ width: 240px;
+}
+
+
+#listRoomTwo{
+  position: absolute;
+  top:69px;
+  left:350px;
+  background-color: white;
+  font-family:serif;
+  font-size: 13px;
+ align-items:flex-start;
+}
+
+   }
+
+  @media (max-width: 575.98px) { 
+    #paraRoom{
+        position: absolute;
+        top: 370px;
+        left: 90px;
+        text-align: center;
+        font-family: serif;
+        width: 60%;
+    }
+    #buttonRoom{
+        width: 100px;
+        height: 40px;
+         color:white;
+         background-color: #796329;
+         border: #796329;
+         margin-left: 130px;
+         position: absolute;
+         top: 560px;
+         left: 40px;
+     
+     }
+    
+     #fieldsetRoom{
+        position: absolute;
+        top: 730px;
+        left: 10px;
+        color: #796329;
+        border-color: #796329;
+        border-style:solid;
+        width: 300px;
+        height: 300px;
+        border-width: 1px;
+    
+     }
+    
+     #rooomFeature{
+        position: absolute;
+        top:-19px;
+        left: 110px;
+        background-color: white;
+        font-family:serif;
+        font-size: 28px;
+        
+     }
+
+     
+ #listRoom{
+    position: absolute;
+    top:69px;
+    left:20px;
+    background-color: white;
+    font-family:serif;
+    font-size: 10px;
+   align-items:flex-start;
+   width: 150px;
+ }
+
+ 
+ #listRoomTwo{
+    position: absolute;
+    top:69px;
+    left:185px;
+    background-color: white;
+    font-family:serif;
+    font-size: 10px;
+   align-items:flex-start;
+ }
+ }
+   

@@ -1,0 +1,623 @@
+#divone {
+  position: absolute;
+  top: 780px;
+  width: 100%;
+}
+#divCard {
+  position: relative;
+  left: 70px;
+  top: 480px;
+  height: 330px;
+  width: 1200px;
+  margin: 100px;
+}
+#headingAccomodate {
+  position: absolute;
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  left: 630px;
+  font-family: serif;
+  top: 80px;
+}
+
+#para {
+  position: absolute;
+  top: 200px;
+  align-items: center;
+  padding-left: 330px;
+  padding-right: 330px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #796329;
+  text-align: center;
+  font-family: serif;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 25px;
+}
+
+a:hover {
+  font-size: 22px;
+  color: #57471e;
+  text-decoration: solid;
+}
+
+ul {
+  list-style-type: none;
+  position: absolute;
+  top: 430px;
+  left: 530px;
+  margin: 0;
+  overflow: hidden;
+}
+
+#rightHead {
+  font-family: serif;
+  font-size: 30px;
+  position: absolute;
+  align-items: flex-start;
+}
+
+#rightHead:hover {
+    font-family: serif;
+    font-size: 32px;
+    position: absolute;
+    align-items: flex-start;
+  }
+
+#rightPara {
+  position: absolute;
+  top: 80px;
+  font-family: serif;
+  font-size: 18px;
+  position: absolute;
+  align-items: flex-start;
+  text-align: left;
+}
+
+#rightPara:hover {
+    position: absolute;
+    top: 80px;
+    font-family: serif;
+    font-size: 19px;
+    position: absolute;
+    align-items: flex-start;
+    text-align: left;
+  }
+
+#rightUpdated {
+  position: absolute;
+  top: 214px;
+  font-family: serif;
+  font-size: 18px;
+  position: absolute;
+  right: 408px;
+}
+
+
+#cardButton{
+    width: 120px;
+    height: 50px;
+     color:white;
+     background-color: #796329;
+     border: #796329;
+     position: absolute;
+     bottom:20px;
+     right: 463px;
+     font-family: serif;
+ 
+ }
+
+
+
+ #leftHead {
+    font-family: serif;
+    font-size: 30px;
+    position: absolute;
+    align-items: flex-start;
+  }
+  
+  #leftHead:hover{
+    font-family: serif;
+    font-size: 32px;
+    position: absolute;
+    align-items: flex-start;
+  }
+  #leftPara {
+    position: absolute;
+    top: 80px;
+    font-family: serif;
+    font-size: 18px;
+    position: absolute;
+    align-items: flex-start;
+    text-align: left;
+    width: 45%;
+  }
+
+  #leftPara:hover {
+    position: absolute;
+    top: 80px;
+    font-family: serif;
+    font-size: 19px;
+    position: absolute;
+    align-items: flex-start;
+    text-align: left;
+    width: 45%;
+  }
+  
+  #leftUpdated {
+    position: absolute;
+    top: 213px;
+    font-family: serif;
+    font-size: 18px;
+    left: 16px;
+   
+  }
+  
+  #cardButtonLeft{
+      width: 120px;
+      height: 50px;
+       color:white;
+       background-color: #796329;
+       border: #796329;
+       position: absolute;
+       bottom:20px;
+       left: 16px;
+       font-family: serif;
+   }
+
+   @media (max-width: 575.98px) { 
+
+    }
+   
+
+    @media (max-width: 1399.98px) { 
+        #headingAccomodate {
+            position: absolute;
+            text-align: left;
+            font-size: 50px;
+            font-style: italic;
+            left: 500px;
+            font-family: serif;
+            top: 80px;
+          }
+          #divCard {
+            position: relative;
+            left: 70px;
+            top: 480px;
+            height: 280px;
+            width: 800px;
+            margin: 60px;
+          }
+          
+          #para {
+            position: absolute;
+            top: 200px;
+            align-items: center;
+            padding-left: 330px;
+            padding-right: 330px;
+          }
+          
+          li {
+            float: left;
+          }
+          
+          li a {
+            display: block;
+            color: #796329;
+            text-align: center;
+            font-family: serif;
+            padding: 16px;
+            text-decoration: none;
+            font-size: 20px;
+            padding: 25px;
+          }
+          
+          a:hover {
+            font-size: 22px;
+            color: #57471e;
+            text-decoration: solid;
+          }
+          
+          ul {
+            list-style-type: none;
+            position: absolute;
+            top: 430px;
+            left: 400px;
+            margin: 0;
+            overflow: hidden;
+          }
+          
+          #rightHead {
+            font-family: serif;
+            font-size: 30px;
+            position: absolute;
+            align-items: flex-start;
+          }
+          
+          #rightHead:hover {
+              font-family: serif;
+              font-size: 32px;
+              position: absolute;
+              align-items: flex-start;
+            }
+          
+          #rightPara {
+            position: absolute;
+            top: 80px;
+            font-family: serif;
+            font-size: 18px;
+            position: absolute;
+            align-items: flex-start;
+            text-align: left;
+          }
+          
+          #rightPara:hover {
+              position: absolute;
+              top: 80px;
+              font-family: serif;
+              font-size: 19px;
+              position: absolute;
+              align-items: flex-start;
+              text-align: left;
+            }
+          
+          #rightUpdated {
+          visibility: hidden;
+          }
+          
+          
+          #cardButton{
+              width: 120px;
+              height: 50px;
+               color:white;
+               background-color: #796329;
+               border: #796329;
+               position: relative;
+               top:160px;
+               left: 100px;
+               font-family: serif;
+           
+           }
+          
+          
+          
+           #leftHead {
+              font-family: serif;
+              font-size: 30px;
+              position: absolute;
+              align-items: flex-start;
+            }
+            
+            #leftHead:hover{
+              font-family: serif;
+              font-size: 32px;
+              position: absolute;
+              align-items: flex-start;
+            }
+            #leftPara {
+              position: absolute;
+              top: 80px;
+              font-family: serif;
+              font-size: 18px;
+              position: absolute;
+              align-items: flex-start;
+              text-align: left;
+              width: 45%;
+            }
+          
+            #leftPara:hover {
+              position: absolute;
+              top: 80px;
+              font-family: serif;
+              font-size: 19px;
+              position: absolute;
+              align-items: flex-start;
+              text-align: left;
+              width: 45%;
+            }
+            
+            #leftUpdated {
+           visibility: hidden;
+             
+            }
+            
+            #cardButtonLeft{
+                width: 120px;
+                height: 50px;
+                 color:white;
+                 background-color: #796329;
+                 border: #796329;
+                 position: relative;
+                 top:180px;
+                 left: 106px;
+                 font-family: serif;
+             }
+     }
+
+
+
+     @media (max-width: 1199.98px) { 
+        #divone {
+            position: absolute;
+            top: 500px;
+            width: 100%;
+          }
+
+          #headingAccomodate {
+            position: absolute;
+            text-align: center;
+            font-size: 50px;
+            font-style: italic;
+            left: 310px;
+            font-family: serif;
+            top: 80px;
+          }
+          
+          #para {
+            position: absolute;
+            top: 200px;
+            align-items: center;
+            padding-left: 200px;
+            padding-right: 200px;
+          }
+          ul {
+            list-style-type: none;
+            position: absolute;
+            top: 430px;
+            left: 270px;
+            margin: 0;
+            overflow: hidden;
+          }
+      }
+
+      @media (max-width: 991.98px) { 
+        #divone {
+            position: absolute;
+            top: 350px;
+            width: 100%;
+          }
+
+          #headingAccomodate {
+            position: absolute;
+            text-align: center;
+            font-size: 50px;
+            font-style: italic;
+            left: 240px;
+            font-family: serif;
+            top: 90px;
+          }
+          
+          #para {
+            position: absolute;
+            top: 200px;
+            align-items: left;
+            padding-left: 80px;
+            padding-right: 80px;
+          }
+          ul {
+            list-style-type: none;
+            position: absolute;
+            top: 430px;
+            left: 150px;
+            margin: 0;
+            overflow: hidden;
+          }
+
+          #divCard {
+            position: relative;
+            left: 0px;
+            top: 480px;
+            height: 200px;
+            width: 400px;
+            margin: 120px;
+          }
+          #divImg{
+           visibility: hidden;
+          }
+          #rightHead {
+            font-family: serif;
+            font-size: 30px;
+            
+            position: absolute;
+            top: 10px;
+            align-items: flex-start;
+          }
+          
+          #rightHead:hover {
+              font-family: serif;
+              font-size: 32px;
+              position: absolute;
+              align-items: flex-start;
+            }
+          
+          #rightPara {
+            position: absolute;
+            top: 80px;
+            font-family: serif;
+            font-size: 18px;
+            position: absolute;
+            align-items: flex-start;
+            text-align: left;
+          }
+          
+          #rightPara:hover {
+              position: absolute;
+              top: 80px;
+              font-family: serif;
+              font-size: 19px;
+              position: absolute;
+              align-items: flex-start;
+              text-align: left;
+            }
+          
+          #rightUpdated {
+            position: absolute;
+            top: 214px;
+            font-family: serif;
+            font-size: 18px;
+            position: absolute;
+            right: 408px;
+          }
+          
+          
+          #cardButton{
+              width: 120px;
+              height: 50px;
+               color:white;
+               background-color: #796329;
+               border: #796329;
+               position: absolute;
+               bottom:0px;
+            left: 240px;
+               font-family: serif;
+           
+           }
+          
+          
+          
+           #leftHead {
+              font-family: serif;
+              font-size: 30px;
+              position: absolute;
+              align-items: flex-start;
+            }
+            
+            #leftHead:hover{
+              font-family: serif;
+              font-size: 32px;
+              position: absolute;
+              align-items: flex-start;
+            }
+            #leftPara {
+              position: absolute;
+              top: 80px;
+              font-family: serif;
+              font-size: 18px;
+              position: absolute;
+              align-items: flex-start;
+              text-align: left;
+              width: 90%;
+            }
+          
+            #leftPara:hover {
+              position: absolute;
+              top: 80px;
+              font-family: serif;
+              font-size: 19px;
+              position: absolute;
+              align-items: flex-start;
+              text-align: left;
+              width: 45%;
+            }
+            
+            #leftUpdated {
+              position: absolute;
+              top: 213px;
+              font-family: serif;
+              font-size: 18px;
+              left: 16px;
+             
+            }
+            
+            #cardButtonLeft{
+                width: 120px;
+                height: 50px;
+                 color:white;
+                 background-color: #796329;
+                 border: #796329;
+                 position: absolute;
+                 bottom:-9px;
+                 left: 250px;
+                 font-family: serif;
+                 top:200px
+             }
+       }
+
+
+       @media (max-width: 767.98px) { 
+        #divone {
+            position: absolute;
+            top: 250px;
+            width: 100%;
+          }
+
+          #headingAccomodate {
+            position: absolute;
+            text-align: center;
+            font-size: 50px;
+            font-style: italic;
+            left: 150px;
+            font-family: serif;
+            top: 90px;
+          }
+          
+          #para {
+            position: absolute;
+            top: 200px;
+            align-items: left;
+            padding-left: 80px;
+            padding-right: 80px;
+          }
+          ul {
+            list-style-type: none;
+            position: absolute;
+            top: 520px;
+            left: 70px;
+            margin: 0;
+            overflow: hidden;
+          }
+
+        }
+
+
+        @media (max-width: 575.98px) { 
+            #divone {
+                position: absolute;
+                top: 180px;
+                width: 100%;
+              }
+    
+              #headingAccomodate {
+                position: absolute;
+                text-align: center;
+                font-size: 30px;
+                font-style: italic;
+                left: 150px;
+                font-family: serif;
+                top: 90px;
+              }
+              
+              #para {
+                position: absolute;
+                top: 140px;
+                align-items: left;
+                padding-left: 80px;
+                padding-right: 80px;
+              }
+              ul {
+                list-style-type: none;
+                position: absolute;
+                top: 560px;
+                left: 30px;
+                margin: 0;
+                overflow: hidden;
+              }
+              #divCard {
+                position: relative;
+                
+                top: 580px;
+                height: 200px;
+                width: 400px;
+                margin: 90px;
+              }
+    
+         }

@@ -1,0 +1,234 @@
+#font {
+  color: azure;
+  margin-left: 60px;
+  margin-right: 150px;
+  font-family: serif;
+  
+}
+
+#button {
+  width: 90px;
+  height: 40px;
+  color: white;
+  background-color: #796329;
+  border: #796329;
+  margin-left: 50px;
+}
+
+#navButton {
+  color: white;
+}
+
+#navButton:hover {
+  color: white;
+}
+#button:hover {
+  width: 160;
+  height: 50px;
+  color: white;
+  background-color: #796329;
+  border: #796329;
+  margin-left: 50px;
+  font-size: 18px;
+}
+
+#divv {
+  display: flex;
+  justify-content: space-between;
+}
+
+#imgDiv {
+  background-color: "black";
+  height: "185px";
+  width: "189px";
+  position: "absolute";
+  top: "-30px";
+  left: "650px";
+  z-index: 5;
+}
+
+#imgg {
+  height: "110px";
+  width: "110px";
+  background-color: "black";
+  position: "relative";
+  top: "50px";
+  left: "0px";
+}
+
+@media (max-width: 1199.98px) {
+  #font {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  #button {
+    width: 90px;
+    height: 35px;
+    color: white;
+    background-color: #796329;
+    border: #796329;
+    margin-left: 20px;
+  }
+}
+
+#fieldsetRoomCarousel {
+  position: absolute;
+  top: 80px;
+  left: 160px;
+  color: #796329;
+  border-color: #796329;
+  border-style: solid;
+  width: 1210px;
+  height: 600px;
+  border-width: 3px;
+  /* color: rgb(2,0,36);
+    color: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,99,41,1) 100%, rgba(0,212,255,1) 100%) */
+}
+
+#rooomFeatureCarousel {
+  position: absolute;
+  top: 260px;
+  left: -22px;
+  text-align: left;
+
+  color: white;
+
+  font-family: serif;
+  font-size: 48px;
+  width: 500px;
+}
+
+@media (max-width: 1399.98px) {
+  #fieldsetRoomCarousel {
+    position: absolute;
+    top: 80px;
+    left: 160px;
+    color: #796329;
+    border-color: #796329;
+    border-style: solid;
+    width: 910px;
+    height: 470px;
+    border-width: 3px;
+  }
+
+  #rooomFeatureCarousel {
+    position: absolute;
+    top: 260px;
+    left: -18px;
+    text-align: left;
+
+    color: white;
+
+    font-family: serif;
+    font-size: 48px;
+    width: 500px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  #fieldsetRoomCarousel {
+    position: absolute;
+    top: 80px;
+    left: 160px;
+    color: #796329;
+    border-color: #796329;
+    border-style: solid;
+    width: 710px;
+    height: 370px;
+    border-width: 3px;
+  }
+
+  #rooomFeatureCarousel {
+    position: absolute;
+    top: 210px;
+    left: -18px;
+    text-align: left;
+
+    color: white;
+
+    font-family: serif;
+    font-size: 38px;
+    width: 400px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  #fieldsetRoomCarousel {
+    position: absolute;
+    top: 60px;
+    left: 160px;
+    color: #796329;
+    border-color: #796329;
+    border-style: solid;
+    width: 510px;
+    height: 270px;
+    border-width: 3px;
+  }
+
+  #rooomFeatureCarousel {
+    position: absolute;
+    top: 140px;
+    left: -18px;
+    text-align: left;
+
+    color: white;
+
+    font-family: serif;
+    font-size: 28px;
+    width: 300px;
+  }
+}
+
+@media (max-width: 767.98px) { 
+    #fieldsetRoomCarousel {
+        position: absolute;
+        top: 60px;
+        left: 80px;
+        color: #796329;
+        border-color: #796329;
+        border-style: solid;
+        width: 410px;
+        height: 200px;
+        border-width: 3px;
+      }
+    
+      #rooomFeatureCarousel {
+        position: absolute;
+        top: 90px;
+        left: -14px;
+        text-align: left;
+    
+        color: white;
+    
+        font-family: serif;
+        font-size: 20px;
+        width: 200px;
+      }
+ }
+
+ @media (max-width: 575.98px) { 
+    #fieldsetRoomCarousel {
+        position: absolute;
+        top: 35px;
+        left: 60px;
+        color: #796329;
+        border-color: #796329;
+        border-style: solid;
+        width: 250px;
+        height: 120px;
+        border-width: 3px;
+      }
+    
+      #rooomFeatureCarousel {
+        position: absolute;
+        top: 50px;
+        left: -14px;
+        text-align: left;
+    
+        color: white;
+    
+        font-family: serif;
+        font-size: 14px;
+        width: 130px;
+      }
+  }

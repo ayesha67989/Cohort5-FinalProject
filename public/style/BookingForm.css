@@ -1,0 +1,47 @@
+#formArea{
+    top:170px;
+    width: 800px;
+    position: absolute;
+    left: 100px;
+}
+#bookButton{
+    width: 190px;
+    height: 40px;
+    color: white;
+    background-color: #796329;
+    border: #796329;
+    margin-left: 0px;
+    margin-top: 40px;
+}
+
+#BookDiv{
+    position: absolute;
+    top: 110px;
+    left: 310px;
+    color: #796329;
+    border-color: #796329;
+    border-style:solid;
+    width: 950px;
+    height: 550px;
+    border-width: 1px;
+    
+}
+
+#booklogo{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top:120px;
+    left: 20px;
+
+}
+
+
+#booklogoUpdate{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top:30px;
+    left: 20px;
+
+}

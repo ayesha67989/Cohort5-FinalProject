@@ -1,0 +1,56 @@
+#finalPara{
+    color: #796329;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    top: 160px;
+   margin-top: 10px;
+   margin-left: 20px;
+   font-family: serif;
+
+}
+#fieldsetFinal{
+    position: absolute;
+    top: 130px;
+    left: 510px;
+    color: #796329;
+    border-color: #796329;
+    border-style:solid;
+    width: 550px;
+    height: 500px;
+    border-width: 1px;
+
+ }
+
+ #finallogo{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    top:145px;
+    left: 20px;
+
+}
+
+#finalEdit{
+    position: relative;
+    bottom: -160px;
+    width: 90px;
+    right: -140px;
+    height: 40px;
+    color: white;
+    background-color: #796329;
+    border: #796329;
+    margin-left: 10px;
+    font-family: serif;
+    font-size: 18px;
+
+}
+
+ /* #finalDelete{
+    width: 90px;
+    height: 40px;
+    color: white;
+    background-color: #796329;
+    border: #796329;
+    margin-left: 20px;
+}  */
