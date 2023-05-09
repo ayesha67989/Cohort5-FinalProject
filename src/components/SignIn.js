@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 function SignIn() {
   return (
     <div id='signupBackground'>
-    <Link className="btn" id="buttonSignInLogin" to="/">Sign Up</Link>
+    <Link className="btn" id="buttonSignInLogin" to="/signup">Sign Up</Link>
 
     <img  id='signInBackgroundImage' src="./images/image11.jpg" class=" mx-auto d-block"></img>
     <SignInForm/>
